@@ -1,0 +1,112 @@
+
+Judul : rute1
+CreateDynamicPickup(1210, 23, 1667.838867, -2256.697509, -2.887918, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1667.838867, -2256.697509, -2.887918, 0, 0, 0, 5.0);
+Judul : rute2
+CreateDynamicPickup(1210, 23, 1801.938720, -1887.305419, 13.405920, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1801.938720, -1887.305419, 13.405920, 0, 0, 0, 5.0);
+Judul : rute3
+CreateDynamicPickup(1210, 23, 1527.137451, -1662.293090, 13.479454, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1527.137451, -1662.293090, 13.479454, 0, 0, 0, 5.0);
+Judul : rute4
+CreateDynamicPickup(1210, 23, 353.746429, -1801.879394, 4.854662, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 353.746429, -1801.879394, 4.854662, 0, 0, 0, 5.0);
+Judul : rute5
+CreateDynamicPickup(1210, 23, 1315.756103, -1855.839111, 13.485120, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1315.756103, -1855.839111, 13.485120, 0, 0, 0, 5.0);
+Judul : akhir
+CreateDynamicPickup(1210, 23, 1268.606445, -2038.017944, 59.881599, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1268.606445, -2038.017944, 59.881599, 0, 0, 0, 5.0);
+Judul : job
+CreateDynamicPickup(1210, 23, 1396.206909, -5.045751, 1000.853515, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1396.206909, -5.045751, 1000.853515, 0, 0, 0, 5.0);
+Judul : ktp
+CreateDynamicPickup(1210, 23, 1399.251342, -2.005051, 1000.853515, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1399.251342, -2.005051, 1000.853515, 0, 0, 0, 5.0);
+Judul : penjara 2
+CreateDynamicPickup(1210, 23, -724.330017, 2596.250000, 1001.919677, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -724.330017, 2596.250000, 1001.919677, 0, 0, 0, 5.0);
+Judul : penjara3
+CreateDynamicPickup(1210, 23, -724.487670, 2593.375488, 1001.919677, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -724.487670, 2593.375488, 1001.919677, 0, 0, 0, 5.0);
+Judul : penjara
+CreateDynamicPickup(1210, 23, -721.921508, 2595.538085, 1001.919677, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -721.921508, 2595.538085, 1001.919677, 0, 0, 0, 5.0);
+Judul : myculerus
+CreateDynamicPickup(1210, 23, 1256.117187, -1282.676635, 1061.149169, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1256.117187, -1282.676635, 1061.149169, 0, 0, 0, 5.0);
+Judul : apotek
+CreateDynamicPickup(1210, 23, 1265.365356, -1317.538574, 1061.149169, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1265.365356, -1317.538574, 1061.149169, 0, 0, 0, 5.0);
+Judul : plate
+CreateDynamicPickup(1210, 23, -710.501281, 2605.660156, 1006.108398, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -710.501281, 2605.660156, 1006.108398, 0, 0, 0, 5.0);
+Judul : ticket
+CreateDynamicPickup(1210, 23, -710.553955, 2609.112792, 1006.108398, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -710.553955, 2609.112792, 1006.108398, 0, 0, 0, 5.0);
+Judul : polisi
+CreateDynamicPickup(1210, 23, 1270.628051, -1688.911499, 15.476869, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1270.628051, -1688.911499, 15.476869, 0, 0, 0, 5.0);
+Judul : impound
+CreateDynamicPickup(1210, 23, 1290.315429, -1673.818115, 13.608747, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1290.315429, -1673.818115, 13.608747, 0, 0, 0, 5.0);
+Judul : impound
+CreateDynamicPickup(1210, 23, 1273.339843, -1667.482543, 13.589622, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1273.339843, -1667.482543, 13.589622, 0, 0, 0, 5.0);
+Judul : spawnpd
+CreateDynamicPickup(1210, 23, 1260.391601, -1661.296752, 13.576869, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1260.391601, -1661.296752, 13.576869, 0, 0, 0, 5.0);
+Judul : redmoney
+CreateDynamicPickup(1210, 23, -814.395996, 2753.017333, 46.000000, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -814.395996, 2753.017333, 46.000000, 0, 0, 0, 5.0);
+Judul : heli
+CreateDynamicPickup(1210, 23, 1279.416381, -1643.896972, 42.478420, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1279.416381, -1643.896972, 42.478420, 0, 0, 0, 5.0);
+Judul : red1
+CreateDynamicPickup(1210, 23, -1369.513793, 1486.296264, 11.039062, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -1369.513793, 1486.296264, 11.039062, 0, 0, 0, 5.0);
+Judul : blue1
+CreateDynamicPickup(1210, 23, -1467.854980, 1495.103881, 8.257812, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -1467.854980, 1495.103881, 8.257812, 0, 0, 0, 5.0);
+Judul : kandang1
+CreateDynamicPickup(1210, 23, -56.043235, 57.363063, 3.110269, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -56.043235, 57.363063, 3.110269, 0, 0, 0, 5.0);
+Judul : kandang2
+CreateDynamicPickup(1210, 23, -57.719161, 52.421863, 3.110269, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -57.719161, 52.421863, 3.110269, 0, 0, 0, 5.0);
+Judul : kandang3
+CreateDynamicPickup(1210, 23, -59.442920, 47.451335, 3.110269, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -59.442920, 47.451335, 3.110269, 0, 0, 0, 5.0);
+Judul : kandang4
+CreateDynamicPickup(1210, 23, -65.415077, 41.589778, 3.110269, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -65.415077, 41.589778, 3.110269, 0, 0, 0, 5.0);
+Judul : kandang5
+CreateDynamicPickup(1210, 23, -67.112464, 36.589614, 3.110269, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -67.112464, 36.589614, 3.110269, 0, 0, 0, 5.0);
+Judul : jualayam
+CreateDynamicPickup(1210, 23, 1200.701416, -888.495239, 43.095600, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1200.701416, -888.495239, 43.095600, 0, 0, 0, 5.0);
+Judul : antarayam
+CreateDynamicPickup(1210, 23, -2112.106201, -2414.923583, 31.252927, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -2112.106201, -2414.923583, 31.252927, 0, 0, 0, 5.0);
+Judul : ayampaket
+CreateDynamicPickup(1210, 23, -2115.072021, -2410.956787, 31.267492, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, -2115.072021, -2410.956787, 31.267492, 0, 0, 0, 5.0);
+Judul : ngejahit
+CreateDynamicPickup(1210, 23, 2330.944580, -2080.416503, 18.147882, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 2330.944580, -2080.416503, 18.147882, 0, 0, 0, 5.0);
+Judul : bajujahit
+CreateDynamicPickup(1210, 23, 2330.587402, -2072.886230, 18.147907, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 2330.587402, -2072.886230, 18.147907, 0, 0, 0, 5.0);
+Judul : car jahit
+CreateDynamicPickup(1210, 23, 2338.448730, -2089.171142, 13.614563, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 2338.448730, -2089.171142, 13.614563, 0, 0, 0, 5.0);
+Judul : ambiljob
+CreateDynamicPickup(1210, 23, 1141.065307, -2038.543090, 1069.093750, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1141.065307, -2038.543090, 1069.093750, 0, 0, 0, 5.0);
+Judul : obat
+CreateDynamicPickup(1210, 23, 1322.430053, -1493.249267, 1019.413940, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1322.430053, -1493.249267, 1019.413940, 0, 0, 0, 5.0);
+Judul : apotek
+CreateDynamicPickup(1210, 23, 1299.637573, -1482.065307, 1019.413940, -1, -1, -1, 50);
+SetPlayerRaceCheckpoint(playerid, 1, 1299.637573, -1482.065307, 1019.413940, 0, 0, 0, 5.0);
