@@ -1,0 +1,3 @@
+Logger:
+  plugins/discord-connector:
+    LogLevel: All
