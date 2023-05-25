@@ -1,0 +1,8 @@
+graffcreator=J
+graffname={F81414}KOERAWA
+Xpos=594.060119
+Ypos=-1508.170288
+Zpos=15.346343
+XYpos=0.000000
+YYpos=0.000000
+ZYpos=0.000000

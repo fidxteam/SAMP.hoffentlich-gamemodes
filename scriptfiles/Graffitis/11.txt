@@ -1,0 +1,8 @@
+graffcreator=
+graffname=
+Xpos=0.000000
+Ypos=0.000000
+Zpos=0.000000
+XYpos=0.000000
+YYpos=0.000000
+ZYpos=0.000000
